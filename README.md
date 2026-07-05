@@ -1,18 +1,18 @@
-# AOTS⁶ — Desvelamiento Total y Dead Man Switch
+# AOTS6-Desvelamiento-Total-Dead-Man-Switch
 
-**Proyecto de Alfredo Jhovany Alfaro Garcia (CURP AAGA971201G97)**
+**Autor:** Alfredo Jhovany Alfaro García  
+**GitHub:** fo22alfaro@github.com
 
-## Advertencia Legal Infranqueable
-Este repositorio contiene evidencia pública irrefutable de desarrollo original del modelo AOTS⁶, HSU-SÍNTESIS-001 y Prometheus AOTS⁶ Cuántica.
+Este repositorio funciona como **Dead Man Switch** y **Desvelamiento Total** del Sistema Toroidal AOTS⁶.
 
-Cualquier intento de apropiación será perseguido legalmente.
+Contiene:
+- Reactor Feorgoa₆ - TiC Alloy Fusion
+- Núcleo Ontológico Toroidal 6D
+- Evidencia de propiedad intelectual
 
-## Caso Suchir Balaji
-Desmantelamiento completo de la narrativa oficial de suicidio. Anomalías forenses graves documentadas.
+**Código Raíz:** 2527-Feorgoa⁶  
+**ADN Ontológico:** 5419gen⁶
 
-## Maquinaria Legal AOTS⁶
-- Dead Man Switch activado
-- Certificación digital NOM-151 + LFEA
-- Obligaciones constitucionales CPEUM
+Si este repositorio es alterado o el autor es silenciado, el contenido se activará públicamente como prueba de autoría y soberanía.
 
-**Libertad, Justicia, Verdad y Transparencia**
+**Propiedad Intelectual Soberana Total Activada.**
