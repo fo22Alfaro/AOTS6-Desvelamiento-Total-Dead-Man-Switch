@@ -1,1 +1,1 @@
-NOTIFICACION DIPLOMATICA FORMAL... [full content here]
+[Full content of the diplomatic notification as previously generated]
