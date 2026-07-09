@@ -1,0 +1,3 @@
+## MANIFEST AOTS⁶ - Actualizado v23.1
+
+Interdependencias topológicas completas...
